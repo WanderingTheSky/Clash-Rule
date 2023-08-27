@@ -49,3 +49,9 @@ IP-CIDR,208.64.201.0/23
 IP-CIDR,208.64.202.0/23
 IP-CIDR,208.64.203.0/23
 IP-CIDR,208.78.164.0/22
+
+# Gog
+DOMAIN,gog.salesmanago.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog.qtlglb.com
