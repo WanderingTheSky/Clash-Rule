@@ -1,0 +1,29 @@
+# Unbreak 白名单 不应该被广告链接的网站
+
+# Getui
+DOMAIN-SUFFIX,dizhensubao.getui.com
+
+
+# Tencent
+DOMAIN,fairplay.l.qq.com
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+
+# Umeng
+DOMAIN,errlog.umeng.com
+DOMAIN,msg.umeng.com
+DOMAIN,msg.umengcloud.com
+
+# Miui
+DOMAIN,tracking.miui.com
+
+# General
+DOMAIN,app.adjust.com
+DOMAIN,bdtj.tagtic.cn
+
+# Hypixel Network
+DOMAIN,rewards.hypixel.net
+
+# Koodo Mobile
+DOMAIN-SUFFIX,koodomobile.com
+DOMAIN-SUFFIX,koodomobile.ca
