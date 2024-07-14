@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,msn
   - DOMAIN-KEYWORD,nvidia
