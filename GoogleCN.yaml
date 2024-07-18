@@ -1,6 +1,4 @@
-
 payload:
-# Google
   - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,mtalk.google.com
