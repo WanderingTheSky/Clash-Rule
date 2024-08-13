@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,103.10.124.0/24,no-resolve
   - IP-CIDR,102.10.125.0/24,no-resolve
