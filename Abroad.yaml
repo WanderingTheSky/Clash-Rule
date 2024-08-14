@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,x.com
-  - DOMAIN-KEYWORD,outlook
   - DOMAIN-KEYWORD,msn
+  - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,nvidia
+  - DOMAIN-KEYWORD,outlook
