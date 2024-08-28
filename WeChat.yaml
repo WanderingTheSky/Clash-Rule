@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,szshort.weixin.qq.com
   - DOMAIN-SUFFIX,dns.weixin.qq.com
   - DOMAIN-SUFFIX,extshort.weixin.qq.com
+  - DOMAIN-SUFFIX,szextshort.weixin.qq.com
+  - DOMAIN-SUFFIX,szminorshort.weixin.qq.com
