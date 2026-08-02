@@ -1,26 +1,19 @@
-# Epic
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
-
-# EA
 DOMAIN,cloudsync-prod.s3.amazonaws.com
 DOMAIN,eaasserts-a.akamaihd.net
 DOMAIN,originasserts.akamaized.net
 DOMAIN,rtm.tnt-ea.com
 DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,origin.com
-
-# Sony
 DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-
-# Nintendo
 DOMAIN-SUFFIX,nintendo-europe.com
 DOMAIN-SUFFIX,nintendo.be
 DOMAIN-SUFFIX,nintendo.co.jp
@@ -36,8 +29,6 @@ DOMAIN-SUFFIX,nintendo.jp
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.nl
 DOMAIN-SUFFIX,nintendowifi.net
-
-# Xbox
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxab.com
 DOMAIN-SUFFIX,xboxab.net
@@ -45,27 +36,19 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,gamepass.com
-
-# Ubisoft
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,uplay.com
-
-# Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
-
-# Rockstar
 DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rsg.sc
 DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-
-# Gog
 DOMAIN,gog.salesmanago.com
 DOMAIN-SUFFIX,gog-statics.com
 DOMAIN-SUFFIX,gog.com
