@@ -7,7 +7,8 @@ DOMAIN,api.minimax.io
 DOMAIN,api.minimaxi.com
 DOMAIN,api.hunyuan.cloud.tencent.com
 DOMAIN,hunyuan.tencentcloudapi.com
-DOMAIN,ark.cn-beijing.volces.com
+DOMAIN,sg-fp.apitd.net
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,qianwen.aliyun.com
 DOMAIN-SUFFIX,qianwen.com
 DOMAIN-SUFFIX,qwen.ai
